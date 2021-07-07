@@ -1,0 +1,10 @@
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\bin\Debug\CalculatriceXPS.exe.config
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\bin\Debug\CalculatriceXPS.exe
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\bin\Debug\CalculatriceXPS.pdb
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.csprojAssemblyReference.cache
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.MainForm.resources
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.Properties.Resources.resources
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.csproj.GenerateResource.cache
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.csproj.CoreCompileInputs.cache
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.exe
+D:\Hillaz\Documents\Administratif\Professionnel\Formation.OSENGO\#CIPAM-Stage\Programmation\C#\CalculatriceXPS\obj\Debug\CalculatriceXPS.pdb
